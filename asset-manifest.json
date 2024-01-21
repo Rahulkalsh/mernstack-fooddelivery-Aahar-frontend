@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mernstack-fooddelivery-Aahar-frontend/static/css/main.385af561.css",
+    "main.js": "/mernstack-fooddelivery-Aahar-frontend/static/js/main.09f34ed7.js",
+    "static/js/787.aa4d53dc.chunk.js": "/mernstack-fooddelivery-Aahar-frontend/static/js/787.aa4d53dc.chunk.js",
+    "index.html": "/mernstack-fooddelivery-Aahar-frontend/index.html",
+    "main.385af561.css.map": "/mernstack-fooddelivery-Aahar-frontend/static/css/main.385af561.css.map",
+    "main.09f34ed7.js.map": "/mernstack-fooddelivery-Aahar-frontend/static/js/main.09f34ed7.js.map",
+    "787.aa4d53dc.chunk.js.map": "/mernstack-fooddelivery-Aahar-frontend/static/js/787.aa4d53dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.385af561.css",
+    "static/js/main.09f34ed7.js"
+  ]
+}
